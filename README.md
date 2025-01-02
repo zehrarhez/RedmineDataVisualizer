@@ -28,3 +28,9 @@ Redmine Data Visualizer is a Python application that connects to your Redmine pr
    ```bash
    git clone https://github.com/yourusername/redmine-data-visualizer.git
    cd redmine-data-visualizer
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the application:
+   ```bash
+   python redmineStatus.py
