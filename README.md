@@ -1,5 +1,7 @@
 # Redmine Data Visualizer
 
+![Redmine Example](images/redmine.png "Redmine Chart Example")
+
 Redmine Data Visualizer is a Python application that connects to your Redmine project management system and provides graphical insights into the status and tracker types of issues. This tool helps you monitor your project's progress by visualizing open, closed, bug, feature, and other issue statuses.
 
 ---
